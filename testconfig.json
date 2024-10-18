@@ -1,0 +1,11 @@
+{
+    "orgs": {
+        "fake-org-1": {
+            "jwksUri": "https://dev-268876.okta.com/oauth2/aus3xhx3fuhqJ8SDm5d7/v1/keys",
+            "caPrivateKey": "-----BEGIN OPENSSH PRIVATE KEY----- \nb3BlbnNzaC1rZXktdjEAAAAACmFlczI1Ni1jdHIAAAAGYmNyeXB0AAAAGAAAABCzBWamyP \n3tNO17EAuzkCUuAAAAEAAAAAEAAAAzAAAAC3NzaC1lZDI1NTE5AAAAIAH3+drBPsHjkf5+ \nc+w/S4quU3m0/T9sj1jPzqSynIb1AAAAkF0gaakx9/4H4I8eonpR1yU+VpDy3e7sWU9elw \nm/Z4fbjfo8tAnVRZik25ne0gGrpXFbNibRWQqV23qDV3Dk+HvfhDDnqdnejZaUDbmK0Y9a \n8yL/L3bH4FSSGCTxrGPMTPZSuV7Re3frtH3SwGz1gE3EpSNdMq7STMjtRewn35QAXY1Zv6 \nSxznA1eBwXGTIv7w== \n-----END OPENSSH PRIVATE KEY----- \n",
+            "passphrase": "supersecure",
+            "ttlInDays": 180,
+            "SourceAddress": "192.168.0.1/16,172.16.0.0/12"
+        }
+    }
+}
