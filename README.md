@@ -28,3 +28,6 @@ example config:
 }
 
 ```
+
+## Ideas
+instead of requiring users to supply gh username and certificate, use the GH api to pull that information given the SAML name present in the JWT
