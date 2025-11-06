@@ -30,4 +30,5 @@ example config:
 ```
 
 ## Ideas
-instead of requiring users to supply gh username and certificate, use the GH api to pull that information given the SAML name present in the JWT
+- instead of requiring users to supply gh username and certificate, use the GH api to pull that information given the SAML name present in the JWT
+- instead of requiring users to supply ssh public keys, use GH api to pull that information from the user object
